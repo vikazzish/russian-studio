@@ -1,77 +1,36 @@
-Russian Studio
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-A premium online platform for learning Russian.
+## Getting Started
 
-Vision
+First, run the development server:
 
-Russian Studio is a modern educational platform designed for adults who want to learn Russian for real life.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-The project combines:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-* Individual lessons
-* Group lessons
-* Speaking Club
-* Literary Club
-* Language Lab
-* Blog
-* Digital resources
-* Interactive learning tools
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-The goal is to create the most beautiful and inspiring place to learn Russian online.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-⸻
+## Learn More
 
-Design Principles
+To learn more about Next.js, take a look at the following resources:
 
-* Calm
-* Elegant
-* Premium
-* Editorial
-* Minimal
-* Human
-* Intelligent
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-Inspired by the attention to detail of Apple, the clarity of Notion, and the elegance of Synchronize.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-⸻
+## Deploy on Vercel
 
-Brand Colors
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Cream — #FAF7F2
-
-Burgundy — #6E2332
-
-Emerald — #1F6A5A
-
-Warm Gray — #DDD6CF
-
-Text — #222222
-
-⸻
-
-Roadmap
-
-Phase 1
-
-* Landing page
-* Booking lessons
-* About
-* Contact
-
-Phase 2
-
-* Language Lab
-* Blog
-* Resources
-
-Phase 3
-
-* Speaking Club
-* Literary Club
-* Courses
-
-Phase 4
-
-* Mobile App
-* Vocabulary Trainer
-* Student Dashboard
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
